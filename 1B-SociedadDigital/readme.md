@@ -38,7 +38,8 @@
 * Internet en un minuto: https://localiq.com/blog/what-happens-in-an-internet-minute/
 
 
-![VolumenDatos|400](https://assets.weforum.org/editor/knXAMXhd9GSy_yxXqMhzQ7RIyvG30gsUlyPzlY7Z5xk.png)![internet minute statistics - infographic|300](https://localiq.com/wp-content/uploads/2022/05/LIQ-Internet-Minute-Infograph-1.png)
+![VolumenDatos](https://assets.weforum.org/editor/knXAMXhd9GSy_yxXqMhzQ7RIyvG30gsUlyPzlY7Z5xk.png)
+![internet minute statistics - infographic|300](https://localiq.com/wp-content/uploads/2022/05/LIQ-Internet-Minute-Infograph-1.png)
 
 ### PIONEROS Y VISIONARIOS 
 
