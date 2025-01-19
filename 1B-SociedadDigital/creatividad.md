@@ -2,6 +2,21 @@
 
 ## 1B-2 Creatividad + producción RRSS 
 
+La sociedad-red ha creado nuevas formas de producción de contenidos y diferente forma de consumirlos. 
+
+
+Nuevas figuras: 
+
+- Youtuber / Instagramer / Tiktoker
+- Influencer
+- 
+
+
+Nueva forma de consumir y producir contenidos 
+
+- Selfies 
+
+
 La creatividad es un proceso 
 
 - Design thinking 
