@@ -1,6 +1,7 @@
 # Apuntes 1B Sociedad digital / Cultura audiovisual
- Construcción de la **Identidad digital** y comunidades online. Creatividad** y producción sobre redes sociales. Metodología de producción **crowdsourcing**. 
- [Volver inicio](../readme.md)
+ Construcción de la **Identidad digital** y comunidades online. Creatividad** y producción sobre redes sociales. Metodología de producción **crowdsourcing**.
+ 
+ [< Volver a inicio](./../readme.md)
  
 
 ## 1B Sociedad Digital =  Identidad digital 
