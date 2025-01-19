@@ -1,6 +1,5 @@
 # CRIAv Creatividad e Innovación Audiovisual 
-
-* Apuntes colaborativos de la asignatura 
+*  
 *  Facultad de Comunicación y Documentación -  Universidad de Granada
 ----
 
@@ -10,5 +9,17 @@
 
 
 
+### Herramientas de creación de contenidos
 
+
+### Espacios de creación 
+
+* [Repositorio plantilla para creación de proyectos](https://github.com/mgea/my_storytelling)
+* [Catálogo de Proyectos Storytelling](https://github.com/mgea/storytelling)
+
+
+
+
+---
+CCBYSA mgea 2018-2025
 
