@@ -64,26 +64,6 @@
 
 
 
-### 2 Creatividad + producción RRSS 
-
-La creatividad es un proceso 
-
-- Design thinking 
-- Pensamiento de diseño 
-- Espiral de pensamiento creativo (Resnick)
-
-
-
-
-
-
-
-### 3 Producción Crowdsourcing 
-
-
-
-
-
 
 
 
