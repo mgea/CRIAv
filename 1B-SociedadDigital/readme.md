@@ -35,10 +35,11 @@
 	* La Humanidad había creado hasta 2003 una cantidad equivalente a **5 Exabytes** (Eric Schmidt, CEO de Google, 2011) y esa cifra, cuando lo dijo, se generaba en 2 días. https://blog.rjmetrics.com/2011/02/07/eric-schmidts-5-exabytes-quote-is-a-load-of-crap/
 	* El 99,9% de la información generada es en formato digital (https://www.fundacionmapfre.org/blog/cuanta-informacion-se-genera-y-almacena-en-el-mundo/)
 
+![VolumenDatos Statista](https://cdn.statcdn.com/Infographic/images/normal/26031.jpeg)
+
 * Internet en un minuto: https://localiq.com/blog/what-happens-in-an-internet-minute/
 
 
-![VolumenDatos](https://assets.weforum.org/editor/knXAMXhd9GSy_yxXqMhzQ7RIyvG30gsUlyPzlY7Z5xk.png)
 ![internet minute statistics - infographic|300](https://localiq.com/wp-content/uploads/2022/05/LIQ-Internet-Minute-Infograph-1.png)
 
 ### PIONEROS Y VISIONARIOS 
