@@ -1,11 +1,14 @@
 # CRIAv Creatividad e Innovación Audiovisual 
-*  
-*  Facultad de Comunicación y Documentación -  Universidad de Granada
-----
+
+Facultad de Comunicación y Documentación -  Universidad de Granada
+
+
 
 ### Contenidos
 
 [1B Sociedad Digital, Cultura Audiovisual](1B-SociedadDigital/readme.md)
+
+
 
 
 
