@@ -5,23 +5,26 @@
 La sociedad-red ha creado nuevas formas de producción de contenidos y diferente forma de consumirlos. 
 
 
-Nuevas figuras: 
+### Identidad 
 
+El "YO" como marca personal  
+
+
+### Nuevos trabajos 
+
+- Community manager 
 - Youtuber / Instagramer / Tiktoker
 - Influencer
 - 
 
+### Producción 
 
 Nueva forma de consumir y producir contenidos 
 
-- Selfies 
+-  Selfie - https://mgea.github.io/content/resources/Selfie.html
 
 
-La creatividad es un proceso 
 
-- Design thinking 
-- Pensamiento de diseño 
-- Espiral de pensamiento creativo (Resnick)
 
 
 
