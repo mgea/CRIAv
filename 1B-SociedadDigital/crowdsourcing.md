@@ -18,6 +18,28 @@ Origen del término es de Jeff Howe en "The rise of Crowsourcing", Wired, 2006
 
 
 
+### Crowdsourcing como estrategia creativa 
+
+Consiste en diseñar procesos de colaboración en masa bajo los principios de las dinámicas de software libre: 
+* Transparencia
+* Colaboración
+* Participación 
+* Libertad
+
+
+![](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2010/11/JohnnyCashProject.jpg?fit=400%2C370&quality=50&strip=all&ssl=1)
+
+The JohnnyCashProject, Chris Milk 2012
+
+http://www.thejohnnycashproject.com
+
+https://vimeo.com/15416762
+
+
+
+
+
+
 
 
 
