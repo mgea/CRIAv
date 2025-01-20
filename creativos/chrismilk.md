@@ -1,6 +1,10 @@
 # Chris Milk 
 ----
 
+Wikipedia: https://en.wikipedia.org/wiki/Chris_Milk
+Web: http://milk.co/
+
+
 
 
 
