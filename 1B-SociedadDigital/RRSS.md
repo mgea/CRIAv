@@ -1,6 +1,6 @@
 [< Volver menu](./readme.md)
 
-## 1B-2 Creatividad + producción RRSS 
+## 1B-2 RRSS: Identidad, y producción sobre redes sociales 
 
 La sociedad-red ha creado nuevas formas de producción de contenidos y diferente forma de consumirlos. 
 
