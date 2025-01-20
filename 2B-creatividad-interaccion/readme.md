@@ -1,5 +1,5 @@
 
-# Apuntes 2B - Ideación y producción digital en la red 
+# Apuntes 2B - Ideación, creatividad y producción digital en la red 
 
 Ideación, prototipado e interactividad. Producción de contenidos digitales en la red. 
 
