@@ -7,8 +7,9 @@ La sociedad-red ha creado nuevas formas de producción de contenidos y diferente
 
 ### Identidad 
 
-El "YO" como marca personal  
-
+* El "YO" como marca personal  
+* Millennials: The Me Me Me Generation https://time.com/247/millennials-the-me-me-me-generation/
+![](https://api.time.com/wp-content/uploads/2014/01/1101130520_600.jpg?quality=85&w=2400)
 
 ### Nuevos trabajos 
 
