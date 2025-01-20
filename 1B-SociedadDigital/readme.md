@@ -5,7 +5,7 @@
  El contenido se organiza en torno a estos apartados: 
 
   - [Situación actual. La sociedad digital/ sociedad red](./sociedad_digital.md)
-  - [Creatividad e identidad digital](./creatividad.md)
+  - [Creatividad e identidad digital](./RRSS.md)
   - [Producción mediante crowsdourcing](./crowdsourcing.md)
   - [<Volver menu principal](./../README.md)
 
