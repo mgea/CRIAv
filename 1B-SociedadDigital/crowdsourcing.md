@@ -8,8 +8,9 @@ El concepto de **intercreatividad** es un concepto clave desarrollado en la teor
 
 ### Crowdsourcing 
 
-Origen del término es de Jeff Howe en "The rise of Crowsourcing", Wired, 2006  https://www.wired.com/2006/06/crowds/  
+Origen del término es de Jeff Howe en "The rise of Crowsourcing", Wired, 2006  
 
+* _"El Crowdsourcing es el acto de aceptar un trabajo tradicionalmente realizado por un agente designado (por lo general un empleado) y subcontratarlo a un grupo de personas indefinido y generalmente grande en una convocatoria abierta, por lo general a través de Internet"_   (Jeff Howe, 2006) 
 * “Crowdsourcing is a story of cooperation, aggregation, teamwork, consensus, and creativity" (Brabham, 2013)
 * “Any crowdsourcing application is only as vibrant as its online community" (Brabham, 2013)
 * Crowdsourcing Journalism: “My readers know more than I do, and that’s a good thing” (Dan Gillmor, 2004)
@@ -18,6 +19,19 @@ Origen del término es de Jeff Howe en "The rise of Crowsourcing", Wired, 2006  
 
 
 
+
+
+
+### Crowdfunding 
+
+Crowdfunding (micro-mecenazgo) es una “Cooperación colectiva, llevada a cabo por personas que realizan una red para conseguir dinero u otros recursos, se suele utilizar Internet para financiar esfuerzos e iniciativas de otras personas u organizaciones”. Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Micromecenazgo)
+
+Formas: 
+
+* INVERSION - (Equity crowdfunding) Los inversores invierten grandes cantidades (rondando los 1.000€) y para tener participaciones del mismo (en base a futuros beneficios) 
+* RECOMPENSA - (Rewards-based crowdfunding ) Los inversores invierten cantidades relativamente pequeñas (1-50€) y reciben un producto o servicio (que puede ser personalizado)
+* PRESTAMOS - (Debt crowdfunding) Los inversores prestan cantidades (rondando los 1.000€) y reciben intereses por el préstamo. 
+* DONATIVOS - (Donation-based crowdfunding) Las personas donan al proyecto sin ningún tipo de recompensa. Se usa para proyecto sin fines de lucro, ONGs.
 
 
 
