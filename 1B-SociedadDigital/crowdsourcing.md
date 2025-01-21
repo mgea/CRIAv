@@ -61,7 +61,7 @@ Formas:
 
 
 
-Bibliografía: 
+## Bibliografía: 
 
 (Cobo, PlanetaWeb 2.0) C. Cobo, Hugo Pardo Kuklinski (2006) Planeta Web 2.0. Inteligencia colectiva o medios fast food, [planetaweb2](https://universoabierto.org/2016/07/20/planeta-web-2-0-inteligencia-colectiva-o-medios-fast-food/)
 
