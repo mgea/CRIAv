@@ -24,9 +24,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 
 ---
-[Creatividad e Innovación Audiovisual](https://github.com/mgea/CRIAv)
-
-[Guía estudios](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)
+[Creatividad e Innovación Audiovisual](https://github.com/mgea/CRIAv) / [Guía estudios](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)
  
 [Facultad de Comunicación y Documentación](https://fcd.ugr.es/)
 
