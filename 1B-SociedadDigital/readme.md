@@ -1,6 +1,6 @@
 # Apuntes 1B Sociedad digital / Cultura audiovisual
 
- Construcción de la **Identidad digital** y comunidades online. Creatividad** y producción sobre redes sociales. Metodología de producción **crowdsourcing**.
+ Construcción de la **Identidad digital** y comunidades online. Creatividad y producción sobre redes sociales. Metodología de producción **crowdsourcing**.
 
  El contenido se organiza en torno a estos apartados: 
 
@@ -12,9 +12,7 @@
     
 -----
 
-[Creatividad e Innovación Audiovisual](https://github.com/mgea/CRIAv)
-
-[Guía estudios](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)
+[Creatividad e Innovación Audiovisual](https://github.com/mgea/CRIAv) [Guía estudios](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)
  
 [Facultad de Comunicación y Documentación](https://fcd.ugr.es/)
 
