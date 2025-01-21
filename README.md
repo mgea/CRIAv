@@ -24,5 +24,12 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 
 ---
-CCBYSA mgea 2018-2025
+[Creatividad e Innovación Audiovisual](https://github.com/mgea/CRIAv)
+
+[Guía estudios](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)
+ 
+[Facultad de Comunicación y Documentación](https://fcd.ugr.es/)
+
+CCBYNCSA M. Gea, 2025
+
 
