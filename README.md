@@ -10,8 +10,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 ### Contenidos
 
-[1B Sociedad Digital, Cultura Audiovisual]([1B-SociedadDigital/readme.md](https://github.com/mgea/CRIAv/wiki))
-
+[1B Sociedad Digital, Cultura Audiovisual](https://github.com/mgea/CRIAv/wiki)
 
 
 
