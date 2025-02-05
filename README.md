@@ -2,6 +2,7 @@
 
 Facultad de Comunicación y Documentación -  Universidad de Granada
 
+![CRIAV Logo](CRIAV_logoBN.png)
 
 
 [Presentación interactiva de Asignatura](https://mgea.github.io/cdncav/) 
