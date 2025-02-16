@@ -11,7 +11,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 ### Contenidos
 
-[Proyectos Storytelling]((https://github.com/storytelling)
+[Proyectos Storytelling](https://github.com/storytelling)
 
 [1B Sociedad Digital, Cultura Audiovisual](https://github.com/mgea/CRIAv/wiki)
 
