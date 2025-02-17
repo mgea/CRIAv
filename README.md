@@ -9,9 +9,13 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 
 
-### Contenidos
+### Contenido de experimentación (práct)
 
-[Proyectos Storytelling](https://github.com/mgea/storytelling)
+[Proyectos Storytelling](https://github.com/mgea/storytelling) (repositorio de proyectos seleccionados) 
+
+[Proyectos Storytelling](https://github.com/mgea/my_storytelling) (repositorio de proyectos seleccionados) 
+
+### Contenidos para ideación (teo)
 
 [0B Crear un proyecto interactivo](https://github.com/mgea/CRIAv/wiki) 
 
