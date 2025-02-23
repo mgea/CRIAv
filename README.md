@@ -13,7 +13,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 [Proyectos Storytelling](https://github.com/mgea/storytelling) (repositorio de proyectos seleccionados) 
 
-[Proyectos Storytelling](https://github.com/mgea/my_storytelling) (repositorio de proyectos seleccionados) 
+[Plantilla proyecto](https://github.com/mgea/my_storytelling) (repositorio de plantilla para crear proyecto de Storytelling) 
 
 ### Contenidos para ideación (teo)
 
