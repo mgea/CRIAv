@@ -10,7 +10,7 @@ Recursos de @FedeCatbot (de telegram)
 
 ![Telegram](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-128.png)
 
-Telegram: [https:/t.me/FedeCatbot](https:/t.me/FedeCatbot)
+Telegram: [@FedeCatbot](https:/t.me/FedeCatbot)
 
 -----
 
