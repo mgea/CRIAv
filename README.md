@@ -8,14 +8,21 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 [Presentación interactiva de Asignatura](https://mgea.github.io/cdncav/) 
 
 
+<br> 
 
-### Contenido de experimentación (práct)
+## Contenido de experimentación (práct)
 
 [Proyectos Storytelling](https://github.com/mgea/storytelling) (repositorio de proyectos seleccionados) 
 
 [Plantilla proyecto](https://github.com/mgea/my_storytelling) (repositorio de plantilla para crear proyecto de Storytelling) 
 
-### Contenidos para ideación (teo)
+[Prácticas](https://github.com/mgea/CRIAv/tree/main/practicas)
+
+<br>
+
+
+
+## Contenidos para ideación (teo)
 
 [0B Crear un proyecto interactivo](https://github.com/mgea/CRIAv/wiki) 
 
@@ -24,14 +31,9 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 
 
-### Herramientas de creación de contenidos
+## Herramientas de creación de contenidos
 
-
-### Espacios de creación 
-
-* [Repositorio plantilla para creación de proyectos](https://github.com/mgea/my_storytelling)
-* [Catálogo de Proyectos Storytelling](https://github.com/mgea/storytelling)
-
+<br>
 
 
 
