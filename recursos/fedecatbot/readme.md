@@ -12,6 +12,8 @@ Recursos de @FedeCatbot (de telegram)
 
 Telegram: [@FedeCatbot](https:/t.me/FedeCatbot)
 
+https:/t.me/FedeCatbot
+
 -----
 
 
