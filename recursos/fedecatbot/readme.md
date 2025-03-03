@@ -12,6 +12,8 @@ Recursos de @FedeCatbot (de telegram)
 
 Telegram: [@FedeCat2bot](https://t.me/FedeCat2bot)
 
+Interactivo: https://app.Lumi.education/run/TmuO3T
+
 
 
 -----
