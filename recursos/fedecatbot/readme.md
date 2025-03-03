@@ -3,9 +3,9 @@
 ## Creación de chatbot en Telegram 
 
 
-## FedeCatBot (with Google DialogFlow, 2019)  
+## FedeCat2Bot (with Google DialogFlow, 2019)  
 
-Recursos de @FedeCatbot (de telegram)
+Recursos de @FedeCa2tbot (de telegram)
 
 
 ![Telegram](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-128.png)
