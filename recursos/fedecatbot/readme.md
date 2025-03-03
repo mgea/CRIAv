@@ -18,17 +18,9 @@ Interactivo: https://app.Lumi.education/run/TmuO3T
 
 -----
 
-
-
-Ficha (2018)
-
-![Ficha FedeCat2Bot](https://github.com/mgea/CDNCAv/blob/master/ChatBot/Ficha_FedeCat2Bot.png)
-
-***
-
 Ficha (2025)
 
-Otra alternativa es con https://excalidraw.com/ y la siguiente [plantilla](https://github.com/mgea/my_storytelling/blob/main/ficha_personaje.excalidraw)
+Usando  https://excalidraw.com/ y la siguiente [plantilla](https://github.com/mgea/my_storytelling/blob/main/ficha_personaje.excalidraw)
 
 ![Ficha actualizada](https://github.com/mgea/CRIAv/blob/main/recursos/fedecatbot/FedeCatBot25.png)
 
