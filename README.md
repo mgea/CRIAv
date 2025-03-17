@@ -7,6 +7,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 [Presentación interactiva de Asignatura](https://mgea.github.io/cdncav/) 
 
+[Planning actualizado de parte 1B](_Planning.md)
 
 <br> 
 
