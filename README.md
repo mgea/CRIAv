@@ -28,6 +28,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 [1B Sociedad Digital, Cultura Audiovisual](https://github.com/mgea/CRIAv/wiki)
 
+[2B Ideación y producción digital en la red](https://github.com/mgea/CRIAv/wiki)
 
 
 
