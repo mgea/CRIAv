@@ -1,6 +1,7 @@
 ## Prácticas 
 
 Programa de prácticas de asignatura Creatividad e Innovación Audiovisual-B. 
+
 <- [Volver a menu principal](https://github.com/mgea/criav)  
 
 ### Objetivo de las prácticas 
