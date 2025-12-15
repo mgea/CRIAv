@@ -39,6 +39,13 @@ EL enlace al contenido se tiene en este enlace: https://github.com/mgea/CRIAv/wi
 * [Recursos de apoyo](https://github.com/mgea/CRIAv/wiki) 
 
 
+
+#### 4 Contenido de Prácticas 
+
+* [Prácticas](./practicas/) 
+
+
+
 #### 4 Repositorios de ayuda para realizar prácticas
 
 * [Proyectos Storytelling](https://github.com/mgea/storytelling) (repositorio de proyectos seleccionados) 
