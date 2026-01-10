@@ -6,7 +6,7 @@ Facultad de Comunicación y Documentación -  Universidad de Granada
 
 Estas en repo: https://github.com/mgea/criav
 
-Bienvenido al repositorio principal de **Creatividad e Innovación Audiovisual-B**. 
+Bienvenido al repositorio principal de [**Creatividad e Innovación Audiovisual-B**](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis). 
 Esta asignatura está diseñada para que su contenido así como los resultados de las prácticas estén 
 adaptado a la Web usando la filosofia de conocimiento abierto y repositorios en Github. 
 
