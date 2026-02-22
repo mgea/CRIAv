@@ -30,8 +30,8 @@ Inspiración
 | Pract. | Descripción                                                  | Sesiones | Entrega |
 | ------ | ------------------------------------------------------------ | -------- | ------- |
 |        | Creación de grupos                                           | 23/02    |         |
-| 1B     | [Diseño personaje & Interactivo](Practica_1B)                | 3        | 23/03   |
-| 2B     | [Teaser Promocional](Practica_2B)                            | 3        | 04/ 04  |
-| 3B     | [Storytelling Interactivo](Practica_3B)                      | 4        | 25/04   |
+| 1B     | [Diseño personaje & Interactivo](Practica_1B.md)             | 3        | 23/03   |
+| 2B     | [Teaser Promocional](Practica_2B.md)                         | 3        | 04/ 04  |
+| 3B     | [Storytelling Interactivo](Practica_3B.md)                   | 4        | 25/04   |
 |        | Presentacion proyectos                                       | 25/04    |         |
 
