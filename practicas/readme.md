@@ -22,6 +22,22 @@ Propuestas de storytelling
 Inspiración
 
 
+### Prácticas 
+
+
+
+| Pract. | Descripción                                                  | Sesiones | Entrega |
+| ------ | ------------------------------------------------------------ | -------- | ------- |
+|        | Creación de grupos                                           | 23/02    |         |
+| 1B     | [Diseño personaje & Interactivo](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica1.md) | 3        | 23/03   |
+| 2B     | [Teaser Promocional]()                                       | 3        | 04/ 04  |
+| 3B     | [Storytelling Interactivo](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica3.md) | 4        | 25/04   |
+|        | Presentacion proyectos                                       | 25/04    |         |
+
+
+
+
+
 
 
 
