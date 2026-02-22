@@ -9,7 +9,7 @@ Contenidos:
 
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-128.png" width="60">
 
-* Usuario @FedeCa2tbot en Telegram usando Google DialogFlow (2019): [@FedeCat2bot](https://t.me/FedeCat2bot)
+* Usuario @FedeCat2bot en Telegram usando Google DialogFlow (2019): [@FedeCat2bot](https://t.me/FedeCat2bot)
 
 * Interactivo H5P usando LUMI (2024): https://app.Lumi.education/run/TmuO3T
 
@@ -18,7 +18,7 @@ Contenidos:
 
 -----
 
-### Ficha FedeCatbot(2025)
+### Ficha FedeCat2bot(2025)
 
 Usando  https://excalidraw.com/ y la siguiente [plantilla](https://github.com/mgea/my_storytelling/blob/main/ficha_personaje.excalidraw)
 
@@ -35,6 +35,8 @@ Enlaces:
 ![qr](https://github.com/mgea/CRIAv/blob/main/recursos/fedecatbot/FedeCatBot_qr.png) 
 
 ----
+
+### Narrativa del diálogo 
 
 Diagrama del diálogo con el @FedeCat2bot en telegram: [enlace Web](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=FedeCatBot#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1NNBOf8VXlUIO-EB5xKKLpZDiJHkuhgTz%26export%3Ddownload). [XML](https://github.com/mgea/CDNCAv/blob/master/ChatBot/FedeCat2Bot.xml
 
