@@ -13,11 +13,16 @@ NOTA: Si se tiene problemas para su desarrollo, se puede realizar en plataforma 
 Genial.ly
 * Qué es una novela visual. https://es.wikipedia.org/wiki/Novela_visual 
 
+
+<img src ="imgs/genially.png" width="400"> 
+
+
 Herramientas: 
   * Ren’py (preferentemente) https://www.renpy.org 
   * Genial.ly (sólo en circunstancias excepcionales) https://www.genial.ly/es    
   * Twine (sólo en circunstancias excepcionales)  http://twinery.org 
 
+<img src ="imgs/HistoriaFCD25-mini.png" width="400">
 
 ## Recursos: 
 
