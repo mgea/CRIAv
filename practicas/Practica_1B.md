@@ -1,5 +1,4 @@
-
-## Práctica 1B. Creación de personaje para storytelling
+# Práctica 1B. Creación de personaje para storytelling
 
 El objetivo de esta práctica es seguir desarrollando y avanzando en la historia mediante la creación de un personaje que será el protagonista del resto de prácticas. 
 
@@ -48,6 +47,9 @@ con la información que tenemos de nuestro personaje e historia  donde se deber�
 * Enlace al juego interactivo
 * Nombre de los participantes
 
+
+<- [Volver a menu principal](https://github.com/mgea/CRIAv)
+<- [Volver a Prácticas](readme.md)
 
 
 
