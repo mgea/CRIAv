@@ -26,21 +26,12 @@ Inspiración
 
 
 
+
 | Pract. | Descripción                                                  | Sesiones | Entrega |
 | ------ | ------------------------------------------------------------ | -------- | ------- |
 |        | Creación de grupos                                           | 23/02    |         |
-| 2B     | [Creación Personaje & Interactivo](https://github.com/mgea/CRIAv/tree/main/practicas/1B)                                       | 3        | 04/ 04  |
-
-| 2B     | [Teaser Promocional](https://github.com/mgea/CRIAv/tree/main/practicas/1B)                                       | 3        | 04/ 04  |
-| 3B     | [Storytelling Interactivo](https://github.com/mgea/CRIAv/tree/main/practicas/2B) | 4        | 25/04   |
+| 1B     | [Diseño personaje & Interactivo](https://github.com/mgea/CRIAv/tree/main/practicas/1B) | 3        | 23/03   |
+| 2B     | [Teaser Promocional](https://github.com/mgea/CRIAv/tree/main/practicas/2B) | 3        | 04/ 04  |
+| 3B     | [Storytelling Interactivo](https://github.com/mgea/CRIAv/tree/main/practicas/3B) | 4        | 25/04   |
 |        | Presentacion proyectos                                       | 25/04    |         |
 
-
-
-
-
-
-
-
--  - [descripción](https://github.com/mgea/CRIAv/tree/main/practicas/1B)
-- 
