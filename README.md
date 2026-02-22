@@ -48,7 +48,7 @@ EL enlace al contenido se tiene en este enlace: https://github.com/mgea/CRIAv/wi
 
 #### 4 Repositorios de ayuda para realizar prácticas
 
-* [Storytelling HALL OF FAME - Proyectos seleccionados de estudiantes ](https://github.com/mgea/storytelling) (repositorio de proyectos seleccionados) 
+* [Storytelling HALL OF FAME](https://github.com/mgea/storytelling) (Proyectos seleccionados de estudiantes de diferente ediciones) 
 
 * [Plantilla proyecto](https://github.com/mgea/my_storytelling) (repositorio "my_storytelling" de plantilla para crear los proyecto de prácticas de Storytelling) 
 
