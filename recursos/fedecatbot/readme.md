@@ -1,13 +1,9 @@
-
-
-## Creación de chatbot en Telegram 
-
-
-## FedeCat2Bot 
-
+## FedeCat2Bot: Creación de personaje chatbot  
 
 
 ### Personaje y Storytelling
+
+Método de creación de un personaje estilo chatbot usando Telegram / AI. 
 
 Contenidos: 
 
