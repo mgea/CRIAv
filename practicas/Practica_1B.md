@@ -1,6 +1,7 @@
 # Práctica 1B. Creación de personaje para storytelling
 
-Prácticas de asignatura Creatividad e Innovación Audiovisual-B. [<- Volver a menu principal](https://github.com/mgea/CRIAv)
+_Prácticas de asignatura Creatividad e Innovación Audiovisual-B._ [<- Volver a menu principal](https://github.com/mgea/CRIAv)
+
 El objetivo de esta práctica es seguir desarrollando y avanzando en la historia mediante la creación de un personaje que será el protagonista del resto de prácticas. 
 
 La práctica consta de las siguientes partes: 
