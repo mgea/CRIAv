@@ -3,17 +3,21 @@
 ## Creación de chatbot en Telegram 
 
 
-## FedeCat2Bot (with Google DialogFlow, 2019)  
-
-Recursos de @FedeCa2tbot (de telegram)
+## FedeCat2Bot 
 
 
-![Telegram](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-128.png)
 
-Telegram: [@FedeCat2bot](https://t.me/FedeCat2bot)
+### Personaje y Storytelling
 
-Interactivo: https://app.Lumi.education/run/TmuO3T
+Contenidos: 
 
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-128.png" width="60">
+
+* Usuario @FedeCa2tbot en Telegram usando Google DialogFlow (2019): [@FedeCat2bot](https://t.me/FedeCat2bot)
+
+* Interactivo H5P usando LUMI (2024): https://app.Lumi.education/run/TmuO3T
+
+* Personaje usando IA con [Character.ai](https://character.ai/chat/fvrwrk4wLBEeFe3gN-__WDF8Nhq0EK3QZ0HG0-22ezc) (2025) 
 
 
 -----
