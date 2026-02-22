@@ -42,7 +42,7 @@ EL enlace al contenido se tiene en este enlace: https://github.com/mgea/CRIAv/wi
 
 #### 4 Contenido de Prácticas 
 
-* [Prácticas](./practicas/) 
+* [Prácticas](./practicas/readme.md)
 
 
 
