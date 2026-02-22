@@ -49,6 +49,7 @@ con la información que tenemos de nuestro personaje e historia  donde se deber�
 
 
 <- [Volver a menu principal](https://github.com/mgea/CRIAv)
+
 <- [Volver a Prácticas](readme.md)
 
 
