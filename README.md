@@ -38,7 +38,10 @@ EL enlace al contenido se tiene en este enlace: https://github.com/mgea/CRIAv/wi
 
 #### 3 Herramientas y Software de apoyo 
 
-* [Recursos de apoyo](https://github.com/mgea/CRIAv/wiki) 
+* [TSB - Transmedia Story Builder](https://mgea.github.io/TSBuilder/)    :octocat: (https://github.com/mgea/TSBuilder) 
+* [Vibe Coding Profile Card](https://mgea.github.io/ViveCodingCards/)   :octocat:  https://github.com/mgea/ViveCodingCards
+
+ 
 
 
 
@@ -70,9 +73,8 @@ EL enlace al contenido se tiene en este enlace: https://github.com/mgea/CRIAv/wi
 
 ---
 [Creatividad e Innovación Audiovisual](https://github.com/mgea/CRIAv) / [Guía estudios](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)
- 
+
 [Facultad de Comunicación y Documentación](https://fcd.ugr.es/)
 
 CCBYNCSA M. Gea, 2025
-
 
