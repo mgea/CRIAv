@@ -38,8 +38,8 @@ EL enlace al contenido se tiene en este enlace: https://github.com/mgea/CRIAv/wi
 
 #### 3 Herramientas y Software de apoyo 
 
-* [TSB - Transmedia Story Builder](https://mgea.github.io/TSBuilder/)    :octocat: (https://github.com/mgea/TSBuilder) 
-* [Vibe Coding Profile Card](https://mgea.github.io/ViveCodingCards/)   :octocat:  https://github.com/mgea/ViveCodingCards
+* [TSB - Transmedia Story Builder](https://mgea.github.io/TSBuilder/)   /    [:octocat: ](https://github.com/mgea/TSBuilder) 
+* [Vibe Coding Profile Card](https://mgea.github.io/ViveCodingCards/)   /  [:octocat:](https://github.com/mgea/ViveCodingCards)
 
  
 
